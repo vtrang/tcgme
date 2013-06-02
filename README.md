@@ -1,0 +1,1 @@
+Tiny C Game Map Editor - A tiny map editor in C for game development
